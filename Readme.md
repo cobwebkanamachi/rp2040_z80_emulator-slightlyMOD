@@ -4,6 +4,9 @@ mod points:
 1) zprintf put into zprintf.h (Serial.printf).
 2) adjust for platform.io (no code changed, with platform.ini only)
 
+zprintf is shown here.
+https://qiita.com/teddokano/items/9afc45bb1beab9b7af4f
+
 Enjoy.<BR>
 <a>running view(splash on teraterm):
 <img src="https://github.com/cobwebkanamachi/rp2040_z80_emulator-slightlyMOD/blob/main/z80splash.png" alt="splash terminal image of this."></a>
