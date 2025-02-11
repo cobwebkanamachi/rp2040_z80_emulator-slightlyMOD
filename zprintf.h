@@ -1,3 +1,5 @@
+// this code is shown here
+// https://qiita.com/teddokano/items/9afc45bb1beab9b7af4f
 #include <stdarg.h>
 //  プロトタイプ宣言
 void zprintf(const char *format, ...);
