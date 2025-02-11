@@ -5,4 +5,5 @@ mod points:
 2) adjust for platform.io (no code changed, with platform.ini only)
 
 Enjoy.
+<img src="./splashz80.png" alt="splash terminal image of this."></a>
 </PRE>
